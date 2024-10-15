@@ -1,0 +1,54 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+.a {
+  display: inline-flex;
+  flex-direction: column;
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.b {
+  margin: 50px;
+}
+
+.c {
+  margin: 50px;
+}
+
+.d {
+  margin: 50px;
+}
+
+.e {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  background-color: white;
+  margin: 20px;
+  
+}
+
+img{
+    border-radius: 30%;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  
+  margin-bottom: 20px;
+}
+
+#f{
+    background-color: white;
+    color: black;
+    margin-top: 30px;
+    text-align: left;
+}
